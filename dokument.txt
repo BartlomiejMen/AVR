@@ -1,2 +1,3 @@
 dokument 1
 druga linijka dok1
+jeszcze coś innego
